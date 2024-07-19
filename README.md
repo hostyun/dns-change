@@ -5,4 +5,4 @@
 - 自行替换脚本后面的DNS
 
 # 一键关闭 ipv6
-`bash <(curl -s [https://d.cbugcloud.com/sh/soga-fn/setup_soga.sh](https://raw.githubusercontent.com/hostyun/dns-change/main/disable-ipv6.sh))`
+`bash <(curl -s [https://d.cbugcloud.com/sh/soga-fn/setup_soga.sh](https://raw.githubusercontent.com/hostyun/dns-change/main/disable-ipv6.sh)`
